@@ -43,8 +43,4 @@ Este projeto consiste na criação de um banco de dados, coleta e transformaçã
 - **Agrupamento por Gerente**:
   - Agrupamento dos colaboradores por gerente para análise do número de colaboradores por gerente.
 
-## Relatório Final
 
-O relatório final foi desenvolvido no Power BI, utilizando as transformações e integrações descritas acima.
-
-Desenvolvido por: **Dáiton**
