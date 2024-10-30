@@ -1,4 +1,4 @@
-# Dashboard Corporativo com Integração MySQL e Azure
+# Relatório Corporativo com Integração MySQL e Azure
 
 Este projeto consiste na criação de um banco de dados, coleta e transformação de dados, e criação de um dashboard corporativo utilizando o Power BI. Abaixo estão os passos realizados para a criação do projeto.
 
