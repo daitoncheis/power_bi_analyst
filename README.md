@@ -47,4 +47,4 @@ Este projeto consiste na criação de um banco de dados, coleta e transformaçã
 
 O relatório final foi desenvolvido no Power BI, utilizando as transformações e integrações descritas acima.
 
-Desenvolvido por: **Cibele Gomes Domingos Moraes**
+Desenvolvido por: **Dáiton**
